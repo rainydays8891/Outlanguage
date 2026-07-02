@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "holy Outlanguage impl", "holy Outlanguage impl\holy Outlanguage impl.csproj", "{D9B7D7AE-6DBB-4D50-989C-6CBFD63DFC97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9B7D7AE-6DBB-4D50-989C-6CBFD63DFC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B7D7AE-6DBB-4D50-989C-6CBFD63DFC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B7D7AE-6DBB-4D50-989C-6CBFD63DFC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B7D7AE-6DBB-4D50-989C-6CBFD63DFC97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6769FC1-F633-499A-881E-7DFA5A58EBA4}
+	EndGlobalSection
+EndGlobal
